@@ -1,0 +1,26 @@
+#box1{background-color:red;
+    width:250px;
+    height:250px;
+    float:left;
+}
+#box2{background-color:blue;
+    width:250px;
+    height:250px;
+    float:left;
+}
+#box3 {background-color:yellow;
+    width:250px;
+    height:250px;
+    float:left;
+}
+#box4{background-color:darkgreen;
+    width:250px;
+    height:250px;
+    float:left;
+}
+#h3{
+    text-align:center;
+}
+#h2{color:purple;
+    font-family:Arial;
+}
